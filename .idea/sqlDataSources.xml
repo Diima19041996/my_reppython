@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="44f733c2-958d-4ee9-b3a8-6ef78b3da074" name="my_bd Mapping">
+      <data-sources db="4d0e747c-6f08-480a-b627-58f8feaa5497" />
+      <scope>
+        <node negative="1">
+          <node kind="database" negative="1">
+            <node kind="schema" negative="1" />
+          </node>
+          <node kind="schema">
+            <name qname="information_schema" />
+            <name qname="my_data" />
+            <name qname="mysql" />
+            <name qname="performance_schema" />
+            <name qname="sakila" />
+            <name qname="sys" />
+            <name qname="world" />
+          </node>
+        </node>
+      </scope>
+    </mapping>
+  </component>
+</project>
