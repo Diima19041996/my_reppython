@@ -136,4 +136,5 @@ dmypy.json
 .idea/misc.xml
 *.xml
 .idea/my_rep19041996.iml
-.idea/vcs.xml
+.idea/vcs.xml\
+.idea/
