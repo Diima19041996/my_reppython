@@ -1,6 +1,6 @@
 
 *.xml
 *.iml
-.ibea/
+.idea/
 .venv/
 *.patch
