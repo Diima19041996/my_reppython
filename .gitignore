@@ -138,3 +138,5 @@ dmypy.json
 .idea/my_rep19041996.iml
 .idea/vcs.xml\
 .idea/
+.venv/
+.settings
