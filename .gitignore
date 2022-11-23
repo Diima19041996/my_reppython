@@ -1,8 +1,0 @@
-
-*.xml
-*.iml
-.ibea/
-.venv/
-*.patch
-.env
-*.meta
