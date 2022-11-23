@@ -5,3 +5,4 @@
 .venv/
 *.patch
 .env
+*.meta
