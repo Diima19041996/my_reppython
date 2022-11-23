@@ -4,4 +4,5 @@
 .ibea/
 .venv/
 *.patch
+*.env
 .env
