@@ -4,4 +4,3 @@
 .ibea/
 .venv/
 *.patch
-*.xml
