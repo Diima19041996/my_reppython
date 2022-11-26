@@ -5,3 +5,6 @@
 .venv/
 *.patch
 *.xml
+HW_17/.env
+HW_17/__init__.py
+HW_17/.venv/
